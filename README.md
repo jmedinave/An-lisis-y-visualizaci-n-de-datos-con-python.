@@ -1,4 +1,4 @@
-# An-lisis-y-visualizaci-n-de-datos-con-python.
+# Análisis y visualización de datos con python.
 Este Notebook muestra los conocimientos adquiridos y puestos en practica para el uso de las librerias descritas en el notebook a continuación:
 
 ### Video: 
